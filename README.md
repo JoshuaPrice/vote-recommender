@@ -1,2 +1,2 @@
 # vote-recommender
-Vote recommender based on what donation profiles a voter aligns with 
+Vote recommender based on what donation profiles a voter aligns with! 
